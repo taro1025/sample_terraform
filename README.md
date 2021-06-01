@@ -28,3 +28,6 @@ main.tfのaws_instance, app_serverはそれぞれタイプと名前です。こ�
 aws_instance.app_server.id
 
 
+AMIのidは以下のコマンドをAWS CLIを使いうつと返ってきます
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/finding-an-ami.html#finding-quick-start-ami
